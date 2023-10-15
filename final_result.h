@@ -8,4 +8,4 @@
 
 #define ARR_MAX_SIZE 20
 
-int final_result(int case_num, int arr1[], int length)
+int final_result(int case_num, int arr1[], int length);
